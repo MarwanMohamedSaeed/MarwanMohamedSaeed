@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Marwan Mohamed Saeed, Data Science and AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#10213f"/>
+      <stop offset="1" stop-color="#1b3a6b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f81f7"/>
+      <stop offset="1" stop-color="#56d4dd"/>
+    </linearGradient>
+    <style>
+      .name { font: 700 46px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; }
+      .title { font: 600 22px 'Segoe UI', Helvetica, Arial, sans-serif; fill: url(#accent); }
+      .tags { font: 400 15px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #9fb3d1; letter-spacing: 0.5px; }
+      .pulse { animation: pulse 3s ease-in-out infinite; }
+      .pulse2 { animation: pulse 3s ease-in-out 1s infinite; }
+      @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="1200" height="260" rx="14" fill="url(#bg)"/>
+  <g stroke="#2f81f7" stroke-opacity="0.35" stroke-width="1.5" fill="none">
+    <path d="M820 60 L910 120 L1010 70 L1100 140 L1010 200 L910 120"/>
+    <path d="M820 60 L860 190 L910 120"/>
+    <path d="M860 190 L1010 200"/>
+    <path d="M1010 70 L1060 30"/>
+    <path d="M1100 140 L1160 90"/>
+  </g>
+  <g fill="#56d4dd">
+    <circle class="pulse" cx="820" cy="60" r="6"/>
+    <circle class="pulse2" cx="910" cy="120" r="8"/>
+    <circle class="pulse" cx="1010" cy="70" r="6"/>
+    <circle class="pulse2" cx="1100" cy="140" r="7"/>
+    <circle class="pulse" cx="1010" cy="200" r="6"/>
+    <circle class="pulse2" cx="860" cy="190" r="5"/>
+    <circle class="pulse" cx="1060" cy="30" r="4"/>
+    <circle class="pulse2" cx="1160" cy="90" r="4"/>
+  </g>
+  <rect x="60" y="62" width="64" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="60" y="124" class="name">Marwan Mohamed Saeed</text>
+  <text x="60" y="164" class="title">Data Science &amp; AI Engineer</text>
+  <text x="60" y="206" class="tags">ML pipelines   ·   RAG &amp; LLM apps   ·   Power BI   ·   Streamlit</text>
+</svg>
