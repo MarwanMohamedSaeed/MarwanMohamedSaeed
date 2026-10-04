@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Marwan Mohamed Saeed 👋</h1>
+<img src="assets/banner.svg" alt="Marwan Mohamed Saeed, Data Science and AI Engineer" width="100%" />
 
 <a href="https://github.com/MarwanMohamedSaeed"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Engineer;ML+Pipelines+%26+Predictive+Systems;RAG+%26+LLM+Applications;Power+BI+%26+Data+Storytelling" alt="Typing SVG" /></a>
 
@@ -86,6 +86,12 @@ Data Science and AI student with ~2 years of hands-on experience turning raw dat
 
 <img src="https://streak-stats.demolab.com?user=MarwanMohamedSaeed&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarwanMohamedSaeed/MarwanMohamedSaeed/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarwanMohamedSaeed/MarwanMohamedSaeed/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/MarwanMohamedSaeed/MarwanMohamedSaeed/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 </div>
 
 ---
@@ -151,6 +157,20 @@ Dermatology diagnosis platform combining skin lesion segmentation/classification
 | **AI & Data Science Trainee, Machine Learning Engineer Track** | Digital Egypt Pioneers Initiative (DEPI), Microsoft | Nov 2025 – Jun 2026 |
 | **Data Analyst Intern** (99% evaluation score) | National Telecommunication Institute (NTI) | Jun – Jul 2025 |
 | **Machine Learning & AI Trainee** | EXCPRINCE Initiative, Route Egypt | 2025 |
+
+```mermaid
+timeline
+    title Learning and career timeline
+    2023 : Start B.Sc. Data Science and AI at Alexandria National University
+    2025 : EXCPRINCE Machine Learning and AI trainee
+         : NTI Data Analyst internship, 99% evaluation (Jun to Jul)
+         : NVIDIA Getting Started with Deep Learning (Aug)
+         : DEPI Machine Learning Engineer track starts (Nov)
+         : AWS Academy Cloud Foundations (Dec)
+    2026 : DEPI Machine Learning Engineer track completed (Jun)
+         : Supervised Machine Learning certificate, DeepLearning.AI (Aug)
+    2027 : Expected graduation
+```
 
 ---
 
