@@ -1,32 +1,45 @@
-<h1 align="center">Hi, I'm Marwan Mohamed Saeed 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Data Science & AI Engineer</b><br>
-  Turning raw data into dashboards, ML models, and LLM-powered products
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Marwan%20Mohamed%20Saeed&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%26%20AI%20Engineer&descAlignY=58&descSize=20" alt="Header" width="100%"/>
+
+<a href="https://github.com/MarwanMohamedSaeed"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Engineer;ML+Pipelines+%26+Predictive+Systems;RAG+%26+LLM+Applications;Power+BI+%26+Data+Storytelling" alt="Typing SVG" /></a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MarwanMohamedSaeed&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/MarwanMohamedSaeed?label=Followers&style=for-the-badge&logo=github&color=2F81F7" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/MarwanMohamedSaeed?label=Stars&style=for-the-badge&logo=github&color=F2C811" alt="Stars" />
 </p>
 
-<p align="center">
+<p>
   📍 Alexandria, Egypt &nbsp;|&nbsp; 🎓 B.Sc. Data Science & AI, Alexandria National University (2023–2027)
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/marwanmohamedsaeed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:marwanmohamedsaid23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Data Science and AI student with ~2 years of hands-on experience turning raw datasets into decision-ready insights using Python, SQL, and Power BI. I've completed a Microsoft/DEPI Machine Learning Engineer program, a Data Analyst internship at the National Telecommunication Institute (99% evaluation score), and I'm now building toward LLM applications, RAG systems, and agentic workflows.
+Data Science and AI student with ~2 years of hands-on experience turning raw datasets into decision-ready insights and deployable products. I build end-to-end ML pipelines, RAG-based LLM apps, and Streamlit applications, backed by a Microsoft/DEPI Machine Learning Engineer program and a Data Analyst internship at the National Telecommunication Institute (99% evaluation score).
 
 - 📊 Building analytics dashboards and end-to-end ML projects
-- 🤖 Exploring LLM apps, RAG pipelines, and automation
+- 🤖 Building LLM apps, RAG pipelines, and automation
 - 🎓 Final-year student, open to junior Data / AI roles and freelance projects
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,mysql,postgres,sqlite,pytorch,sklearn,fastapi,django,docker,git,github,azure,aws,powerbi,vscode&perline=8" alt="Skills" />
+
+</div>
 
 **Programming & Data**
 
@@ -47,6 +60,7 @@ Data Science and AI student with ~2 years of hands-on experience turning raw dat
 **Machine Learning & AI**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -54,6 +68,7 @@ Data Science and AI student with ~2 years of hands-on experience turning raw dat
 
 **Cloud & Tools**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_Cloud_Foundations-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,27 +76,63 @@ Data Science and AI student with ~2 years of hands-on experience turning raw dat
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MarwanMohamedSaeed&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanMohamedSaeed&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=MarwanMohamedSaeed&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=MarwanMohamedSaeed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarwanMohamedSaeed&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
+
+### ⚙️ [Predictive Maintenance: Machine Health Monitoring System](https://github.com/MarwanMohamedSaeed/predictive-maintenance)
+End-to-end system that predicts failure risk in milling machines, identifies failure modes, explains alerts, and recommends maintenance actions (AI4I 2020 dataset, 10,000 readings).
+- Tuned Random Forest reached **PR-AUC 0.886, ROC-AUC 0.978, and 95.6% recall** (3 missed failures out of 68)
+- Cost-optimized decision threshold cut operational cost by **33%**
+- Compared XGBoost, MLP, autoencoder, and a hybrid ensemble; explained predictions with SHAP
+- Streamlit app with a grounded RAG assistant, monitoring dashboard, and scheduling simulator; Dockerized, 127 tests
+
+**Tech:** Python · scikit-learn · PyTorch · SHAP · Streamlit · Docker · SQLite
+
+### 📚 [StudyRAG: Chat With Your Lecture PDFs](https://github.com/MarwanMohamedSaeed/Study-RAG)
+AI study tool that turns lecture PDFs into a searchable tutor and verified practice quizzes.
+- Grounded answers with page citations; works in Arabic and English
+- 7-step quiz validation pipeline with blind-solve verification to remove wrong answer keys
+- Runs fully offline with open-source models (Ollama) or with the Claude API
+
+**Tech:** Python · RAG · ChromaDB · sentence-transformers · PyMuPDF · Pydantic · Streamlit · Docker
+
+### 🛒 [E-Commerce ML Capstone (Olist)](https://github.com/MarwanMohamedSaeed/Machine-Learning-Capstone-on-E-Commerce)
+One shared data pipeline feeding five models on ~100K real marketplace orders: return and late-delivery classification, review-score and revenue regression, and customer segmentation with clustering.
+- Compared Logistic/Linear Regression, Decision Tree, Random Forest, and KNN; K-Means, DBSCAN, and Agglomerative for segmentation
+- Tuned models exported for inference, with a Streamlit app
+
+**Tech:** Python · scikit-learn · imbalanced-learn · pandas · Streamlit
 
 ### 🛒 [Food Mart Retail Analysis: Power BI Dashboard](https://github.com/MarwanMohamedSaeed/Food-Mart-Project-) ⭐ 9
 Interactive retail intelligence dashboard covering sales, customers, products, and returns.
-- Main figures dashboard with KPIs by membership tier (Bronze, Silver, Golden, Normal)
-- Customer insights: income, education, marital status, region, and family size vs. purchasing behavior
-- Product insights: top brands, high-margin products, sales/profit trends, return rates by geography
+- KPIs by membership tier, customer insights by income/education/region, and product profit and return analysis
 - Built with a fact/dimension data model and DAX measures
 
 **Tech:** Power BI · DAX · Data Modeling
 
 ### 🔬 [Breast Cancer Diagnosis: ML Comparative Study](https://github.com/MarwanMohamedSaeed/-Breast-Cancer-Diagnosis-ML-Comparative-Study)
-Interactive Streamlit app comparing Logistic Regression and Random Forest on the Wisconsin Breast Cancer Diagnostic dataset (569 samples, 30 features).
-- Optimized for Recall and F1-score, since missed cancers (false negatives) matter most
-- Includes Canonical Correlation Analysis, permutation importance, ROC / precision-recall curves, and 5-fold stratified cross-validation
-- Both models exceed 95% accuracy in the default configuration
+Interactive Streamlit app comparing Logistic Regression and Random Forest on the Wisconsin Breast Cancer dataset, with Recall and F1 prioritized since missed cancers matter most. Both models exceed 95% accuracy in the default setup.
 
-**Tech:** Python · scikit-learn · Streamlit · Plotly · Pandas
+**Tech:** Python · scikit-learn · Streamlit · Plotly
 
 ### 🩺 DermaScan AI (Team Project, DEPI)
-Dermatology diagnosis platform combining skin lesion segmentation/classification with a RAG-based chatbot. Built as part of a 5-person team during the Microsoft/DEPI program.
+Dermatology diagnosis platform combining skin lesion segmentation/classification with a RAG-based chatbot, built in a 5-person team during the Microsoft/DEPI program.
 
 **Tech:** Deep Learning · RAG · Azure
 
@@ -114,4 +165,10 @@ I'm open to junior Data / AI roles, collaborations, and freelance projects.
 - 📧 marwanmohamedsaid23@gmail.com
 - 🗣️ Languages: Arabic (native) · English (professional working proficiency)
 
-<p align="center">⭐ If you like my work, feel free to star a repo!</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" width="100%"/>
+
+⭐ If you like my work, feel free to star a repo!
+
+</div>
