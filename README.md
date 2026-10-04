@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Marwan%20Mohamed%20Saeed&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%26%20AI%20Engineer&descAlignY=58&descSize=20" alt="Header" width="100%"/>
+<h1>Hi, I'm Marwan Mohamed Saeed 👋</h1>
 
 <a href="https://github.com/MarwanMohamedSaeed"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Engineer;ML+Pipelines+%26+Predictive+Systems;RAG+%26+LLM+Applications;Power+BI+%26+Data+Storytelling" alt="Typing SVG" /></a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=MarwanMohamedSaeed&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/MarwanMohamedSaeed?label=Followers&style=for-the-badge&logo=github&color=2F81F7" alt="Followers" />
   <img src="https://img.shields.io/github/stars/MarwanMohamedSaeed?label=Stars&style=for-the-badge&logo=github&color=F2C811" alt="Stars" />
+  <img src="https://img.shields.io/badge/Open%20to-Junior%20Data%20%2F%20AI%20roles-2ea44f?style=for-the-badge" alt="Open to work" />
 </p>
 
 <p>
@@ -85,15 +85,20 @@ Data Science and AI student with ~2 years of hands-on experience turning raw dat
 
 <img src="https://streak-stats.demolab.com?user=MarwanMohamedSaeed&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=MarwanMohamedSaeed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarwanMohamedSaeed&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-
 </div>
 
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/MarwanMohamedSaeed/predictive-maintenance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarwanMohamedSaeed&repo=predictive-maintenance&theme=tokyonight&hide_border=true" alt="predictive-maintenance" /></a>
+<a href="https://github.com/MarwanMohamedSaeed/Study-RAG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarwanMohamedSaeed&repo=Study-RAG&theme=tokyonight&hide_border=true" alt="Study-RAG" /></a>
+<a href="https://github.com/MarwanMohamedSaeed/Machine-Learning-Capstone-on-E-Commerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarwanMohamedSaeed&repo=Machine-Learning-Capstone-on-E-Commerce&theme=tokyonight&hide_border=true" alt="E-Commerce ML Capstone" /></a>
+<a href="https://github.com/MarwanMohamedSaeed/Food-Mart-Project-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarwanMohamedSaeed&repo=Food-Mart-Project-&theme=tokyonight&hide_border=true" alt="Food Mart" /></a>
+
+</div>
 
 ### ⚙️ [Predictive Maintenance: Machine Health Monitoring System](https://github.com/MarwanMohamedSaeed/predictive-maintenance)
 End-to-end system that predicts failure risk in milling machines, identifies failure modes, explains alerts, and recommends maintenance actions (AI4I 2020 dataset, 10,000 readings).
@@ -166,8 +171,6 @@ I'm open to junior Data / AI roles, collaborations, and freelance projects.
 - 🗣️ Languages: Arabic (native) · English (professional working proficiency)
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" width="100%"/>
 
 ⭐ If you like my work, feel free to star a repo!
 
