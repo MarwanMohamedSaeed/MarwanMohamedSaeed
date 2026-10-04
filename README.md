@@ -16,6 +16,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/marwanmohamedsaeed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://marwanmohamedsaeed.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:marwanmohamedsaid23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -100,8 +101,8 @@ Data Science and AI student with ~2 years of hands-on experience turning raw dat
 
 </div>
 
-### ⚙️ [Predictive Maintenance: Machine Health Monitoring System](https://github.com/MarwanMohamedSaeed/predictive-maintenance)
-End-to-end system that predicts failure risk in milling machines, identifies failure modes, explains alerts, and recommends maintenance actions (AI4I 2020 dataset, 10,000 readings).
+### ⚙️ [Predictive Maintenance: Machine Health Monitoring System](https://github.com/MarwanMohamedSaeed/predictive-maintenance) (Team Project, 6 members)
+End-to-end system that predicts failure risk in milling machines, identifies failure modes, explains alerts, and recommends maintenance actions (AI4I 2020 dataset, 10,000 readings). Built as a six-person team.
 - Tuned Random Forest reached **PR-AUC 0.886, ROC-AUC 0.978, and 95.6% recall** (3 missed failures out of 68)
 - Cost-optimized decision threshold cut operational cost by **33%**
 - Compared XGBoost, MLP, autoencoder, and a hybrid ensemble; explained predictions with SHAP
@@ -167,6 +168,7 @@ Dermatology diagnosis platform combining skin lesion segmentation/classification
 I'm open to junior Data / AI roles, collaborations, and freelance projects.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marwanmohamedsaeed/)
+- 🌐 [Portfolio](https://marwanmohamedsaeed.github.io/portfolio/)
 - 📧 marwanmohamedsaid23@gmail.com
 - 🗣️ Languages: Arabic (native) · English (professional working proficiency)
 
